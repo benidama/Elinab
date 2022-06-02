@@ -1,0 +1,30 @@
+.all{
+    width: 500px;
+    height: 150px;
+    background-color: darkmagenta
+    border: 10px solid brown;
+    
+}
+.changecolor{
+    top: -50px;
+    font-size: 20px;
+    color: cornflowerblue;
+    
+}
+.text{
+    text-transform: lowercase;
+    background-color: blue;
+}
+
+body{
+    background-image: url(./1594568711644.jpg);
+    background-color: cadetblue;
+    height: 200px; width: 550px;
+}
+.copy{
+    color: chartreuse;
+    font-size: 30px;
+}
+.list{
+    color: red; font-size: 30px;
+}
